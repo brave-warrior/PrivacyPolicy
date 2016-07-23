@@ -1,6 +1,6 @@
 **PRIVACY POLICY**
 
-This privacy policy governs your use of the software application "Life Notes" (“Application”) for 
+This privacy policy governs your use of the software application "Life Notes" ("Application") for 
 mobile devices that was created by Khmelenko Lab.
 
 The Application works as a personal diary. 
