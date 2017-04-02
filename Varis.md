@@ -2,7 +2,7 @@ PRIVACY POLICY
 
 This privacy policy governs your use of the software application "Varis" ("Application") for mobile devices that was created by Khmelenko Lab.
 
-The Application works as unofficial Android client for [Travis CI](https://travis-ci.org/) service. It doesn't save any user information except authorization token received during login. Authorization token is saved ONLY locally and is NOT transferred to 3rd parties or resources.
+The Application works as unofficial Android client for [Travis CI](https://travis-ci.org/) service. It doesn't save any user information except authorization token received during login. Authorization token is saved ONLY locally and used for accessing user information (such repositories, builds, jobs) from Travis CI.
 
 USER PROVIDED INFORMATION
 
